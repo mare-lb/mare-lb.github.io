@@ -1,0 +1,204 @@
+[
+    {
+        "id": "watchpartea",
+        "title": "Watchpartea",
+        "category": "Laufend",
+        "year": "2026",
+        "description": "Webanwendung zur gemeinsamen Erstellung von Watchlists, Bewertung von Filmen und Planung gemeinsamer Filmabende mit Freunden.",
+        "image": "assets/mysql.png",
+        "status": "Eigenprojekt",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "PHP",
+            "MySQL",
+            "API"
+        ],
+        "github": "#",
+        "demo": "#",
+        "details": {
+            "about": "Watchpartea ist eine Webanwendung, mit der Freunde gemeinsam Filme sammeln, bewerten und Filmabende planen können. Die Anwendung verbindet eine einfache Benutzeroberfläche mit einer eigenen Datenverwaltung und externen Filmdaten.",
+            "features": [
+                "Gemeinsame Watchlists",
+                "Abruf von Filminformationen über eine externe API",
+                "Bewertung von Filmen",
+                "Verwaltung gemeinsamer Filmabende"
+            ],
+            "challenges": "Eine besondere Herausforderung bestand darin, die Anwendung bewusst ohne moderne Frameworks umzusetzen. Stattdessen wurden HTML, CSS und PHP verwendet, um die grundlegenden Abläufe einer Webanwendung und die Kommunikation mit der Datenbank selbst umzusetzen.",
+            "learned": "Durch das Projekt konnte ich meine praktischen Kenntnisse in PHP und MySQL vertiefen und ein besseres Verständnis für die serverseitige Verarbeitung, Datenverwaltung und den Aufbau klassischer Webanwendungen entwickeln."
+        }
+    },
+
+    {
+        "id": "bachelorarbeit-misinformationen",
+        "title": "Misinformationen auf Social Media",
+        "category": "Bachelorarbeit",
+        "year": "2025",
+        "description": "Konzeption und Umsetzung einer Webanwendung zur Untersuchung der Wahrnehmung und Verbreitung von Misinformationen auf sozialen Medienplattformen.",
+        "image": "assets/bachelorarbeit.jpg",
+        "status": "Studium",
+        "technologies": [
+            "React",
+            "TypeScript",
+            "Vite",
+            "Figma"
+        ],
+        "github": "#",
+        "demo": "#",
+        "details": {
+            "about": "Im Rahmen meiner Bachelorarbeit entstand eine Webanwendung zur Vorbereitung und Durchführung von Studien zur Untersuchung von Misinformationen auf sozialen Medienplattformen. Neben der technischen Umsetzung lag ein besonderer Fokus auf der Konzeption einer verständlichen und gebrauchstauglichen Benutzeroberfläche.",
+            "features": [
+                "Verwaltung und Konfiguration von Studien",
+                "Simulation einer Social-Media-Plattform",
+                "Konzeption und Umsetzung der Benutzeroberfläche",
+                "Fokus auf Usability und verständliche Informationsdarstellung"
+            ],
+            "challenges": "Eine zentrale Herausforderung bestand darin, die Anforderungen unterschiedlicher Nutzergruppen in einer konsistenten und intuitiv bedienbaren Benutzeroberfläche zusammenzuführen. Dabei mussten sowohl die Anforderungen der Studienverwaltung als auch die Perspektive der späteren Studienteilnehmenden berücksichtigt werden.",
+            "learned": "Ich konnte meine Kenntnisse in React und TypeScript vertiefen und praktische Erfahrung in der Konzeption, Umsetzung und Strukturierung einer umfangreicheren Webanwendung sammeln. Darüber hinaus konnte ich meine Kenntnisse in Usability und UI/UX-Design aus dem Studium direkt in einem praktischen Projekt anwenden."
+        }
+    },
+
+    {
+        "id": "digitale-tuerschilder",
+        "title": "Digitale Türschilder",
+        "category": "Bachelorprojekt",
+        "year": "2022",
+        "description": "Konzeption und Umsetzung einer Progressive Web App für digitale Türschilder in Büros im Rahmen eines universitären Teamprojekts.",
+        "image": "assets/bachelorprojekt.png",
+        "status": "Studium",
+        "technologies": [
+            "Vue.js",
+            "Node.js",
+            "Strapi",
+            "Figma"
+        ],
+        "github": "#",
+        "demo": "#",
+        "details": {
+            "about": "Im Rahmen eines universitären Teamprojekts wurde eine Progressive Web App für digitale Türschilder in Büros konzipiert und umgesetzt. Die Anwendung ermöglicht die digitale Darstellung von Informationen an Büroräumen und verbindet ein webbasiertes Frontend mit einem Backend zur Verwaltung der Inhalte.",
+            "features": [
+                "Progressive Web App",
+                "Digitale Darstellung von Rauminformationen",
+                "Verwaltung der dargestellten Inhalte",
+                "Zusammenarbeit im Entwicklungsteam"
+            ],
+            "challenges": "Eine zentrale Herausforderung bestand in der gemeinsamen Konzeption und Umsetzung der Anwendung innerhalb des Entwicklungsteams. Dabei mussten Frontend und Backend sinnvoll miteinander verbunden und die unterschiedlichen Anforderungen an die Anwendung abgestimmt werden.",
+            "learned": "Das Projekt ermöglichte mir praktische Erfahrungen mit Vue.js, Node.js und Strapi sowie einen vertieften Einblick in die Entwicklung einer Webanwendung im Team. Außerdem konnte ich Erfahrungen mit der Abstimmung und Aufteilung von Aufgaben innerhalb eines Softwareprojekts sammeln."
+        }
+    },
+
+    {
+        "id": "schach",
+        "title": "Schachspiel",
+        "category": "Studium",
+        "year": "2021",
+        "description": "Entwicklung eines Schachspiels im Team mit grafischer Benutzeroberfläche, Spiellogik und KI-Gegenspieler.",
+        "image": "assets/schach.png",
+        "status": "Studium",
+        "technologies": [
+            "Java",
+            "Maven",
+            "JUnit"
+        ],
+        "github": "#",
+        "demo": "#",
+        "details": {
+            "about": "Im Rahmen eines universitären Teamprojekts wurde ein vollständiges Schachspiel mit grafischer Benutzeroberfläche entwickelt. Neben der grundlegenden Spiellogik wurde auch ein KI-Gegenspieler umgesetzt.",
+            "features": [
+                "Grafische Benutzeroberfläche",
+                "Umsetzung der Schachregeln",
+                "KI-Gegenspieler",
+                "Mehrspielermodus",
+                "Automatisierte Tests"
+            ],
+            "challenges": "Eine besondere Herausforderung war die Weiterentwicklung der zunächst entstandenen Codebasis. Nachdem sich im Laufe der Entwicklung eine schwer wartbare Struktur mit stark miteinander verknüpften Komponenten entwickelt hatte, wurde der Code umfassend refaktoriert und strukturiert.",
+            "learned": "Das Projekt hat mein Verständnis für Clean Code, Refactoring und die Architektur komplexerer Softwareprojekte vertieft. Durch die Arbeit im Team konnte ich außerdem praktische Erfahrungen mit Java, Maven und JUnit sowie mit der Strukturierung und Wartung einer größeren Codebasis sammeln."
+        }
+    },
+
+    {
+        "id": "deepfake-projekt",
+        "title": "Deepfake-Projekt",
+        "category": "Auszeichnung",
+        "year": "2020",
+        "description": "Erstellung eines Deepfake-Videos im Team und verständliche Aufbereitung der gesellschaftlichen Risiken dieser Technologie. Ausgezeichnet mit dem 1. Platz des EMI-Awards 2020.",
+        "image": "assets/deepfake.jpg",
+        "status": "Studium",
+        "technologies": [
+            "DeepFaceLab",
+            "Neuronale Netze",
+            "Bildverarbeitung"
+        ],
+        "github": "#",
+        "demo": "#",
+        "details": {
+            "about": "Im Rahmen eines Projekts zum Thema „Gamechanging Technologies“ wurde im Team ein eigenes Deepfake-Video erstellt. Neben der technischen Umsetzung beschäftigte sich das Projekt mit den gesellschaftlichen Auswirkungen und Risiken von Deepfake-Technologien.",
+            "features": [
+                "Konzeption und Erstellung eines Deepfake-Videos",
+                "Auseinandersetzung mit neuronalen Netzen",
+                "Bild- und Videobearbeitung",
+                "Verständliche Aufbereitung gesellschaftlicher Risiken",
+                "1. Platz beim EMI-Award 2020"
+            ],
+            "challenges": "Neben der technischen Umsetzung bestand eine besondere Herausforderung darin, die Funktionsweise und gesellschaftlichen Auswirkungen von Deepfake-Technologien verständlich zu vermitteln. Dabei mussten technische Inhalte für ein breiteres Publikum aufbereitet werden.",
+            "learned": "Das Projekt gab mir erste Einblicke in neuronale Netze, moderne Bildverarbeitung und die technischen Grundlagen von Deepfake-Technologien. Gleichzeitig konnte ich Erfahrungen darin sammeln, komplexe technische und gesellschaftliche Themen verständlich aufzubereiten."
+        }
+    },
+
+    {
+        "id": "gewaechshaus-klimaanzeige",
+        "title": "Gewächshaus-Klimaanzeige",
+        "category": "Eigenprojekt",
+        "year": "2022",
+        "description": "Arduino-Projekt zur Messung und Anzeige von Temperatur und Luftfeuchtigkeit in einem Gewächshaus.",
+        "image": "assets/gewaechshaus.jpg",
+        "status": "Eigenprojekt",
+        "technologies": [
+            "Arduino",
+            "Sensorik",
+            "C/C++"
+        ],
+        "github": "#",
+        "demo": "#",
+        "details": {
+            "about": "Bei diesem kleinen Hardwareprojekt werden Temperatur und Luftfeuchtigkeit in einem Gewächshaus mithilfe von Sensoren erfasst und die Messwerte zur Überwachung des Raumklimas ausgewertet und angezeigt.",
+            "features": [
+                "Messung der Temperatur",
+                "Messung der Luftfeuchtigkeit",
+                "Auslesen und Verarbeitung von Sensordaten",
+                "Anzeige der aktuellen Messwerte"
+            ],
+            "challenges": "Die Herausforderung bestand darin, die Sensordaten zuverlässig auszulesen, sinnvoll zu verarbeiten und für die Anzeige aufzubereiten. Dabei musste das Zusammenspiel zwischen Hardware und Software berücksichtigt werden.",
+            "learned": "Das Projekt ermöglichte mir praktische Erfahrungen mit Arduino, Sensorik und C/C++ sowie einen Einblick in die Entwicklung von Anwendungen, bei denen Software direkt mit physischer Hardware interagiert."
+        }
+    },
+
+
+    {
+        "id": "unity-bingo",
+        "title": "Bingo-Spiel",
+        "category": "Eigenprojekt",
+        "year": "2024",
+        "description": "Kleines Bingo-Spiel mit individuell definierbaren Begriffen, umgesetzt mit Unity und C#.",
+        "image": "assets/bingo.png",
+        "status": "Eigenprojekt",
+        "technologies": [
+            "Unity",
+            "C#"
+        ],
+        "github": "#",
+        "demo": "#",
+        "details": {
+            "about": "Bei diesem kleinen Eigenprojekt entstand ein Bingo-Spiel, bei dem eigene Begriffe definiert und daraus individuelle Bingo-Runden erstellt werden können.",
+            "features": [
+                "Individuelle Bingo-Begriffe",
+                "Automatische Erstellung eines Bingo-Spiels",
+                "Zufällige Verteilung der Begriffe",
+                "Interaktive Benutzeroberfläche"
+            ],
+            "challenges": "Die Anwendung sollte flexibel genug sein, um beliebige eigene Begriffe aufzunehmen und daraus automatisch ein spielbares Bingo-Feld zu erzeugen. Dabei musste insbesondere die zufällige Verteilung der Begriffe berücksichtigt werden.",
+            "learned": "Das Projekt ermöglichte mir praktische Erfahrungen mit Unity und C# sowie mit der Entwicklung interaktiver Anwendungen und der Umsetzung von Spiellogik."
+        }
+    }
+
+]
